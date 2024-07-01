@@ -1,0 +1,4 @@
+[19 Jun 2024, 09:41:37]
+"C:\Users\Unknown\Desktop\Hidden Malware Builder V1.0 Bin\Tools\ResHacker.exe"  -delete Tools\file.exe,Tools\file.exe,Icon,,
+Warning: Icon images cannot be manipulated directly, assumes IconGroup.
+Error: No matching resource found.

